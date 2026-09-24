@@ -1,0 +1,8 @@
+# VWeatherConnect configuration
+# Real-world location whose weather your server will mirror:
+latitude: 40.71
+longitude: -74.01
+# How often to refresh (seconds, minimum 120):
+updateSeconds: 600
+# Which world to control (leave blank for the server's default/first world):
+world: ""

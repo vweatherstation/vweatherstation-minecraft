@@ -1,0 +1,6 @@
+name: VWeatherConnect
+version: 1.0.0
+main: com.vweatherstation.mcconnect.VWeatherConnect
+api-version: 1.16
+description: Syncs your Minecraft server weather with real-world weather from VWeatherStation.
+author: VWeatherStation
